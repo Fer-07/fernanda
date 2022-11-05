@@ -29,26 +29,28 @@ html {
   }
   
   /* section styles */
- 
+  
   section article {
     width: 60%;
-   
+    float: center;
+    justify-content: center;
     text-shadow: 4px 2px 2px rgb(0, 140, 255);
-      align-items:center
   }
   
   section p {
     margin: .2px 0;
     width: 600%;
+    float: center;
+    justify-content: center;
     text-shadow: 4px 2px 2px rgb(9, 255, 0);
-     align-items:center
   }
   
   section ul {
     margin-top: 0;
     width: 600%;
+    float: center;
+    justify-content: center;
     text-shadow: 4px 2px 2px rgb(255, 0, 179);
-      align-items:center
   }
   
   h2 {
@@ -56,6 +58,8 @@ html {
     letter-spacing: -2px;
     margin-bottom: 2px;
     width: 600%;
+    float: center;
+    justify-content: center;
     text-shadow: 4px 2px 2px rgb(238, 255, 0);
-      align-items:center
 }
+
